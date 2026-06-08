@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489581663159",
+    "project_id": "journalapp-a499a",
+    "storage_bucket": "journalapp-a499a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489581663159:android:3a7a5a14485b52ee398e32",
+        "android_client_info": {
+          "package_name": "com.vineetganti.journalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD9JASwt3fGXwnhvzE0bNdT149z7NTLJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
