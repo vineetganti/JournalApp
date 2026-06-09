@@ -50,7 +50,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
 
     @Override
     public int getItemCount() {
-        return 0;
+        return journalList != null ? journalList.size() : 0;
     }
 
     public class MyViewHolder extends RecyclerView.ViewHolder {
